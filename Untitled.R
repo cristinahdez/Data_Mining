@@ -1,1 +1,2 @@
-print("hello world")
+library(gitcreds)
+gitcreds_set()
